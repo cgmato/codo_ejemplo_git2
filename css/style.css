@@ -1,0 +1,56 @@
+html{ 
+    font-size: 20px;
+    color: lime;
+}
+
+body {
+    background-color: rgb(122, 13, 122);
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 11em;
+}
+
+h1 {
+    color: rgb (54,183, blue);
+    font-size: 50px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+ul.navbar {
+    list-style: none;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+
+ul.navbar li{
+    background-color: darkgoldenrod;
+    margin: 0.5em 0;
+    padding: .3em;
+    border-right: 1em solid #000; 
+}
+
+ul.navbar a {
+    text-decoration: none;
+}
+
+link {
+    color: blue;
+}
+
+a:visited {
+
+    color: yellow;
+}
+h2.especial{
+    color: salmon; 
+}
+
+
+
